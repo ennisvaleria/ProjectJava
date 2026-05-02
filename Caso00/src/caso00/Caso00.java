@@ -17,9 +17,7 @@ public class Caso00 {
         // TODO code application logic here
 
         System.out.println("Holaaaaxd");
-
         //holaaa
-
     }
     
 }
